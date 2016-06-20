@@ -1,0 +1,28 @@
+name: whyweloveandrewgilboy
+favicon: null
+layout_spectrum: 0.10218122787773609
+typography_spectrum: 0.21488058124668896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21115216496400535
+  lightness: 0.11387009639292955
+  saturation: 0.9734391085803509
+  rhythmicContrast: 0.05441897991113365
+purpose: []
